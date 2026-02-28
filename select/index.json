@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "雨天決行",
+  "base_artist": "東京事変",
+  "createdAt": "2026-02-28T13:04:55.825084Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雨天決行",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/01_雨天決行_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雨天決行",
+      "artist": "Tokyo Jihen",
+      "has_synced": false,
+      "path": "select/02_雨天決行_Tokyo_Jihen.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Batti Koi Riddim (feat. 抹, 雨天決行, 司芭扶, Ginryu)",
+      "artist": "TINY PLANETS feat. 抹, 雨天決行, 司芭扶, Ginryu",
+      "has_synced": false,
+      "path": "select/03_Batti_Koi_Riddim_(feat._抹,_雨天決行,_司芭扶,_Ginryu)_TINY_PLANETS_feat._抹,_雨天決行,_司芭扶,_Ginryu.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛き夜道 (feat. ランコ, 雨天決行)",
+      "artist": "魂音泉",
+      "has_synced": true,
+      "path": "select/04_愛き夜道_(feat._ランコ,_雨天決行)_魂音泉.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雨天決行",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/05_雨天決行_東京事変.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "雨天決行",
+      "artist": "東京事変_Incidents Tokyo",
+      "has_synced": false,
+      "path": "select/06_雨天決行_東京事変_Incidents_Tokyo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Utenkekkō [雨天決行]",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/07_Utenkekkō_[雨天決行]_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "坂好きの神様 (feat. 雨天決行)",
+      "artist": "魂音泉",
+      "has_synced": true,
+      "path": "select/08_坂好きの神様_(feat._雨天決行)_魂音泉.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Batti Koi Riddim (feat. 抹, 雨天決行, 司芭扶, Ginryu)",
+      "artist": "魂音泉",
+      "has_synced": false,
+      "path": "select/09_Batti_Koi_Riddim_(feat._抹,_雨天決行,_司芭扶,_Ginryu)_魂音泉.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メトロノーム (feat. 雨天決行)",
+      "artist": "魂音泉",
+      "has_synced": true,
+      "path": "select/10_メトロノーム_(feat._雨天決行)_魂音泉.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "夢想遊戯 feat. 雨天決行",
+      "artist": "魂音泉",
+      "has_synced": true,
+      "path": "select/11_夢想遊戯_feat._雨天決行_魂音泉.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雨天決行",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_雨天決行_東京事変.txt"
+    }
+  ]
+}
